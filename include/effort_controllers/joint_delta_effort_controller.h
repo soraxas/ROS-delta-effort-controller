@@ -1,8 +1,7 @@
 /*********************************************************************
  * Software License Agreement (BSD License)
  *
- *  Copyright (c) 2008, Willow Garage, Inc.
- *  Copyright (c) 2012, hiDOF, Inc.
+ *  Copyright (c) 2021, Tin Lai
  *  All rights reserved.
  *
  *  Redistribution and use in source and binary forms, with or without
