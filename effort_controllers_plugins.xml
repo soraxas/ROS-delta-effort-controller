@@ -1,0 +1,12 @@
+<library path="lib/libdelta_effort_controllers">
+
+  <class name="effort_controllers/JointDeltaEffortController"
+         type="effort_controllers::JointDeltaEffortController" base_class_type="controller_interface::ControllerBase">
+    <description>
+      The JointEffortDeltaController is a merge between position and effort controller.
+      It expects a EffortJointInterface type of hardware interface.
+    </description>
+  </class>
+
+
+</library>
